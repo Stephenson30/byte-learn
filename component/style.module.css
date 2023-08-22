@@ -1,0 +1,22 @@
+.header{
+    text-align: center;
+    font-size: 1.5em;
+    padding: 1em 0 0 0;
+   }
+   
+   .header h1{
+       font-weight: 600;
+       color: rgb(170, 170, 0);
+   }
+
+   .footer{
+    text-align: center;
+    font-size: .8em;
+    padding: 1.5em;
+   }
+
+   .footer h3{
+    font-weight: 600;
+    color: grey
+}
+   
